@@ -4,13 +4,27 @@
  <title>Notes from Jonathan McGlone</title>
  <link href="http://jmcglone.com/notes/atom.xml" rel="self"/>
  <link href="http://jmcglone.com/notes/"/>
- <updated>2017-03-15T00:35:28+08:00</updated>
+ <updated>2017-03-16T16:59:49+08:00</updated>
  <id>http://jmcglone.com/notes/</id>
  <author>
    <name>Jonathan McGlone</name>
    <email>jwmcglone@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Read Data From Files</title>
+   <link href="http://jmcglone.com/notes/2017/03/16/read-data-from-file"/>
+   <updated>2017-03-16T00:00:00+08:00</updated>
+   <id>http://jmcglone.com/notes/notes/2017/03/16/read-data-from-file</id>
+   <content type="html">&lt;p&gt;There must be occasions when you have to read data from files.
+Sometimes things get annoying when you just want a certain specific data in a messy file.
+Here are some useful notes I want to &lt;em&gt;keep and share&lt;/em&gt;, 
+after get really annoyed by the above situation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;to be done&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Using GitHub to Create and Host a Personal Website</title>
